@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable email_login
+drawable email_signup
+drawable home_screen
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string title_activity_login
+string title_activity_register
+string title_activity_register_activity.kt
+string title_activity_send_mail
+string title_activity_view_mail
+style Theme.EmailApplication
+xml backup_rules
+xml data_extraction_rules
